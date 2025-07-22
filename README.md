@@ -28,3 +28,6 @@ Full-stack app with 2FA and multiplayer via WebSockets.
 
 📬 **Contact:**  
 [micarrel@student.42lisboa.com](mailto:micarrel@student.42lisboa.com)
+
+🔎 Want to see **all** my projects?  
+Check out the full list here → [github.com/Migalhassss/42-projects](https://github.com/Migalhassss/42-projects)
